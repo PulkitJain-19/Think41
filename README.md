@@ -16,25 +16,10 @@ A simple, interactive frontend application that allows users to view and book 30
 
 ---
 
-## 🧪 Demo
 
-![Slot Booker UI Screenshot](./screenshot.png)  
-> You can also upload a real screenshot from your running app to the repo and reference it here.
-
----
 
 ## 💻 Tech Stack
 
 - React.js (Frontend)
 - JavaScript (ES6+)
 - HTML5 + CSS3
-
----
-
-## 🧰 Getting Started
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/YOUR_USERNAME/appointment-slot-booker.git
-cd appointment-slot-booker
